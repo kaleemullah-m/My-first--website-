@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website</title>
+</head>
+<body>
+<h1>Hello, I am Kaleemullah!</h1>
+<p>This is my first website hosted on GitHub.</p>
+
+<h2>My Skills</h2>
+<table border="1">
+  <tr>
+    <th>Skill</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Beginner</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>Learning</td>
+  </tr>
+</table>
+
+</body>
+</html>
